@@ -50,4 +50,4 @@ document
     }
   });
 
-weather.fetchWeather("Delhi");
+weather.fetchWeather("Dehradun");
